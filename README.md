@@ -45,7 +45,8 @@ Display all edge-detected images for comparison.
 
 - **Name:** Janathul Firdhous A
 - **Register No:** 212224040129
-program:
+
+## Program:
 ```
 import cv2
 import numpy as np
